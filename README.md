@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-It's Lennox here, I'm a student at the University of Malawi, pursuing a Bachelor's degree in Computer Science. Deeply passionate about software engineering and love diving into various coding projects. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 🚀
+It's Lennox here 😎, a student at the University of Malawi, pursuing a Bachelor's degree in Computer Science. Deeply passionate about software engineering and love diving into various coding projects. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 🚀
 
 
 <!--
