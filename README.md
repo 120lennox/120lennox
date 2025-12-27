@@ -11,6 +11,6 @@ Feel free to explore my digital crime scenes—I mean, repositories! Collaborati
 
 ## 📊 GitHub Stats (The good, the bad, and the "why did I push that?")
 
-![Lennox's GitHub stats](https://github-readme-stats.vercel.app/api?username=120lennox&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=120lennox&theme=radical)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=120lennox&layout=compact&theme=radical&langs_count=8)
+![Profile Views](https://komarev.com/ghpvc/?username=120lennox&color=blueviolet&style=flat-square)
