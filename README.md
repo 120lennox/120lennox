@@ -1,24 +1,16 @@
 # Hi there! 👋
+I'm Lennox, a Computer Science student at the University of Malawi who's 80% caffeine, 20% Stack Overflow, and 100% convinced my code will work this time.
 
-It's Lennox here 😎, a student at the University of Malawi, pursuing a Bachelor's degree in Computer Science. Deeply passionate about software engineering and love diving into various coding projects. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 🚀
+Currently turning "it works on my machine" into a lifestyle and collecting unfinished side projects. My commit messages range from "fixed bug" to "PLEASE WORK" to "I have no idea what I'm doing."
 
+When I'm not debugging code that was working 5 minutes ago, you can find me Googling things I definitely learned in class but completely forgot.
 
-<!--
-**120lennox/120lennox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚠️ Warning: My repos may contain traces of spaghetti code, questionable variable names, and an unhealthy amount of TODO comments.
 
-Here are some ideas to get you started:
+Feel free to explore my digital crime scenes—I mean, repositories! Collaboration ideas welcome, especially if they involve teaching me what I'm doing wrong. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats (The good, the bad, and the "why did I push that?")
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=120lennox&layout=compact&hide=html&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Lennox's GitHub stats](https://github-readme-stats.vercel.app/api?username=120lennox&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=120lennox&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=120lennox&layout=compact&theme=radical&langs_count=8)
