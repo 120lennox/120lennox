@@ -7,7 +7,7 @@ When I'm not debugging code that was working 5 minutes ago, you can find me Goog
 
 ⚠️ Warning: My repos may contain traces of spaghetti code, questionable variable names, and an unhealthy amount of TODO comments.
 
-Feel free to explore my digital crime scenes—I mean, repositories! Collaboration ideas welcome, especially if they involve teaching me what I'm doing wrong. 🚀
+Feel free to explore my digital crime scenes... I mean, repositories! Collaboration ideas welcome, especially if they involve teaching me what I'm doing wrong. 🚀
 
 ## 📊 GitHub Stats (The good, the bad, and the "why did I push that?")
 
