@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm Lennox, a Computer Science student at the University of Malawi who's always 100% convinced my code will work this time.
+I'm Lennox, a Computer Scientist who's always 100% convinced my code will work this time.
 
 Currently turning "it works on my machine" into a lifestyle and collecting unfinished side projects. My commit messages range from "fixed bug" to "PLEASE WORK" to "I have no idea what I'm doing."
 
